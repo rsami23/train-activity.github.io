@@ -1,0 +1,29 @@
+
+body {
+    background-image: url("https://images.pexels.com/photos/555868/pexels-photo-555868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-attachment: fixed;
+}
+
+.jumbotron {
+    background-color: rgb(91, 90, 90,0.7);
+    color: white;
+}
+
+.form , 
+.schedule {
+    padding: 15px;
+    background-color: rgb(91, 90, 90,0.7);
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+#submit-btn ,
+#show-btn {
+    margin-top: 15px;
+}
+
+.second-row {
+    margin-top: 5px;
+}
+
